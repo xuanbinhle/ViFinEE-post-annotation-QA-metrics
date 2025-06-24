@@ -61,6 +61,7 @@ python evaluate_batch.py \
 
 Nếu đạt yêu cầu: Batch được lưu tại ```data/final/tokenized_data_500_accepted.json```.
 Nếu chưa đạt: Batch được đánh dấu để QC lại, lưu tại ```data/final/tokenized_data_500_flagged_for_qc.json```.
+
 ---
 
 ## Tổng Kết Đầu Ra
