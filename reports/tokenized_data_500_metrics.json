@@ -1,0 +1,25 @@
+{
+  "batch": "tokenized_data_500",
+  "n_paragraphs": 500,
+  "trigger_kappa": 0.8,
+  "arg_kappa": 0.72,
+  "precision_per_type": {
+    "Product/Service": 1.0,
+    "Dividend": 1.0,
+    "Financing": 1.0,
+    "Macroeconomics": 1.0,
+    "Employment": 1.0,
+    "Legal": 1.0,
+    "Profit/Loss": 1.0,
+    "SecurityValue": 1.0,
+    "Expense": 1.0,
+    "Merger/Acquisition": 1.0,
+    "SalesVolume": 1.0,
+    "CSR/Brand": 1.0,
+    "Investment": 1.0,
+    "Deal": 1.0,
+    "Rating": 1.0,
+    "FinancialReport": 1.0
+  },
+  "low_precision_types": {}
+}

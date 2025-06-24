@@ -1,0 +1,6 @@
+metrics:
+  trigger_kappa_min: 0.75
+  arg_kappa_min: 0.65
+  per_type_precision_min: 0.80
+paths:
+  gold_root: data/gold

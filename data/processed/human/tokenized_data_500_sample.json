@@ -1,0 +1,7196 @@
+{
+  "taichinhnganhang_309": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ghi_nhận",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "BIDV",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "trao_tặng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "BIDV",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_171": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "huy_động",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HDBank",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "khách_hàng gửi tiền",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tháng 01/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "huy_động",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HDBank",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các khoản tiền gửi",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tháng 01/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "huy_động",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HDBank",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tiền gửi online",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tháng 01/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_314": {
+    "event_mentions": [
+      {
+        "id": "r1",
+        "event_type": "CSR/Brand",
+        "event_subtype": "",
+        "trigger": {
+          "text": "đưa ra cảnh_báo",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng Techcombank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ]
+      }
+    ]
+  },
+  "taichinhnganhang_418": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ký_kết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Home_Credit Việt_Nam",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Thế_Giới Di_Động ( MWG )",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hợp tác toàn diện với sản phẩm Home_PayLater nhằm cung cấp cho người dùng chính sách \" Mua trả chậm - lấy xài liền - tiền trả sau \" trên toàn hệ thống Thế Giới Di Động",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngày 13/12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ]
+      },
+      {
+        "id": "e2",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ký_kết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "MWG",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Home_Credit",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ]
+      },
+      {
+        "id": "e3",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ký_kết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Tập đoàn Thế Giới Di Động",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Home_Credit Việt_Nam",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "đẩy mạnh dịch vụ Home_PayLater trên toàn hệ thống Thế Giới Di Động",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ]
+      },
+      {
+        "id": "e4",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ký_kết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Home_Credit",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Thế_Giới Di_Động",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "mục tiêu doanh thu 15.000 tỷ đồng vào năm 2025",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ]
+      },
+      {
+        "id": "e5",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ký_kết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Home_Credit",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Thế_Giới Di_Động",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ]
+      }
+    ]
+  },
+  "taichinhnganhang_124": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "FinancialReport",
+        "event_subtype": "Beat",
+        "trigger": {
+          "text": "vượt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "BIDV",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các chỉ_tiêu kinh_doanh của ngân_hàng đều đạt và vượt kế_hoạch NHNN và Đại_hội_đồng cổ_đông giao",
+            "role": "Result",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tính đến hết 31/12/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_192": {
+    "event_mentions": [
+      {
+        "id": "e3",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "mua_bán",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các nhà_đầu_tư nước_ngoài",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "nợ",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_280": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "niêm_yết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng miếng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "82,7 - 84,7 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng miếng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "200.000 đồng / lượng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "niêm_yết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng miếng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "84,7 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "niêm_yết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,3 - 84,8 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "niêm_yết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng thế giới",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2.622 USD / ounce",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Sáng nay",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng thế giới",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "9 USD / ounce",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sáng qua",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "niêm_yết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ giá trung tâm",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "24.322 đồng / USD",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sáng 28/12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thị trường tiền tệ",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ giá trung tâm",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "12 đồng / USD",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sáng 28/12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thị trường tiền tệ",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "điều_chỉnh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "đồng USD",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "25.208 - 25.538 đồng / USD",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sáng 28/12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thị trường tiền tệ",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_451": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ngành ngân_hàng",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong giai_đoạn cuối năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "duy_trì đi ngang",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ngành ngân_hàng",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_260": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Investment",
+        "event_subtype": null,
+        "trigger": {
+          "text": "khởi_động",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "nhiều dự_án đầu_tư lớn",
+            "role": "Investee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "biến_động",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "thị_trường tài_chính toàn_cầu",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_216": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "FinancialReport",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "công_bố",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Agribank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sơ_bộ kết_quả kinh_doanh",
+            "role": "Result",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "đạt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ngân_hàng",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": "Agribank"
+          },
+          {
+            "text": "27.567 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "25.525 tỷ đồng",
+            "role": "HistoricalAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_249": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Product/Service",
+        "event_subtype": "Cancellation/Recall",
+        "trigger": {
+          "text": "dừng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giao_dịch thanh_toán trực_tuyến",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngân_hàng Nhà_nước",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ 1/1/2025",
+            "role": "TIME",
+            "argument_type": "FILLLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Facility",
+        "event_subtype": "Open",
+        "trigger": {
+          "text": "mở_cửa",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng Vietcombank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các điểm giao_dịch này",
+            "role": "Facility",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ 8h00 đến 17h30 vào cuối tuần",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_452": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "thực_hiện",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Việt_Nam",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "vốn FDI",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "19,58 tỷ USD",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "10 tháng năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "mang đến",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "SHB",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Bộ giải_pháp tài_chính dành cho doanh_nghiệp FDI",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_185": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "ra_mắt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VietinBank_Gold & Jewellery",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "bộ sưu_tập \"Lộc_Tiến_Vinh_Hoa\"",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "mang_đến",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VietinBank_Gold & Jewellery",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_486": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng miếng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "700 nghìn đồng / lượng",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,9-86,4 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1 triệu đồng / lượng",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "đầu giờ sáng",
+            "role": "TIME",
+            "argument_type": "FILLLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn trơn 9999",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "700 nghìn đồng / lượng",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,8-85,2 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "điều chỉnh",
+          "is_discontiguous": true,
+          "extra_trigger_spans": [
+            "xuống"
+          ]
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn trơn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "84,08-85,83 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "điều chỉnh",
+          "is_discontiguous": true,
+          "extra_trigger_spans": [
+            "xuống"
+          ]
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn trơn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "84,0-85,2 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm mạnh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "cả hai kim_loại_quý này",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "giữa phiên giao_dịch",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hôm thứ Năm",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Mỹ",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_259": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ban_hành",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "kinh_tế - xã_hội",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngay từ đầu năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chỉ đạo",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các tổ_chức tín_dụng",
+            "role": "AffectedCompany",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các lĩnh_vực sản_xuất kinh_doanh , lĩnh_vực ưu_tiên và các động_lực tăng_trưởng kinh_tế",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "mặt_bằng lãi_suất cho vay",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "kiểm_soát",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "lạm_phát",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Tính đến ngày 13/12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "mặt_bằng lãi_suất cho vay",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "quý 1",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "quý 2",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e9",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chỉ_đạo",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các TCTD",
+            "role": "AffectedCompany",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "chi_phí hoạt_động",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "lãi_suất cho vay",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e10",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "đạt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng ngành công_nghiệp",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_71": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Employment",
+        "event_subtype": "End",
+        "trigger": {
+          "text": "miễn_nhiệm",
+          "is_discontiguous": true,
+          "extra_trigger_spans": [
+            {
+              "text": "giải_quyết nghỉ_việc",
+              "is_discontiguous": false,
+              "extra_trigger_spans": []
+            }
+          ]
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng TMCP Việt_Á ( VietABank )",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ông Phạm_Linh",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày 11/1/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Employment",
+        "event_subtype": "End",
+        "trigger": {
+          "text": "miễn_nhiệm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Eximbank",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ông Phạm_Đăng_Khoa",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngày 10/01/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Employment",
+        "event_subtype": "End",
+        "trigger": {
+          "text": "miễn_nhiệm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng TMCP Phương_Đông ( OCB )",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Trương_Đình_Long",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Employment",
+        "event_subtype": "End",
+        "trigger": {
+          "text": "miễn_nhiệm_chức_vụ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HĐQT Ngân_hàng TMCP Lộc_Phát Việt_Nam ( LPBank )",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "bà Nguyễn_Thị Gấm",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày 31/12/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "Employment",
+        "event_subtype": "Start",
+        "trigger": {
+          "text": "bổ_nhiệm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "LPBank",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ông Nguyễn_Tiến_Công",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "bà Nguyễn_Thị_Gấm",
+            "role": "Replacing",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ ngày 31/12/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Kế_toán_trưởng",
+            "role": "Title",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "Employment",
+        "event_subtype": "End",
+        "trigger": {
+          "text": "miễn_nhiệm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng TMCP Sài_Gòn - Hà_Nội ( SHB )",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ông Lưu_Danh Đức",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày 18/12/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "Employment",
+        "event_subtype": "Start",
+        "trigger": {
+          "text": "bổ_nhiệm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "LPBank",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ông Lưu_Danh Đức",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày 28/12/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Phó Tổng_Giám_đốc kiêm Giám_đốc Khối_Công nghệ Thông_tin",
+            "role": "Title",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_307": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chịu tổn_thất",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Negative"
+        },
+        "arguments": [
+          {
+            "text": "Việt_Nam",
+            "role": "AffectedCompany",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "hỗ_trợ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ABeam_Consulting",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "một_số ngân_hàng lớn tại Việt_Nam",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "tạo ra",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ABeam_Consulting",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Nền_tảng ESG Kỹ_thuật_số",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_386": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các ngân_hàng",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Bộ Công_an",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tích_hợp giải_pháp xác_thực , định_danh khách_hàng qua CCCD gắn chip",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "đầu năm",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "một_số giải_pháp hỗ_trợ từ xa",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các ngân_hàng",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chạy",
+          "is_discontiguous": true,
+          "extra_trigger_spans": [
+            "chương_trình khuyến_mãi"
+          ]
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Hàng_loạt ngân_hàng",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_30": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VietBank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "0,1 - 0,3 điểm %",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngày 14-1",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tại một điểm giao_dịch của Ngân_hàng ( NH ) Việt_Nam Thương_tín ( VietBank ) ở TP HCM",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Nhiều NH khác",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "6% và 6,5 % / năm",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "15,08%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "NH",
+            "role": "Seller",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "25%-26%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "Expense",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các tổ_chức tín_dụng",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "0,5 điểm %",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_123": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "FinancialReport",
+        "event_subtype": "Beat",
+        "trigger": {
+          "text": "đạt và vượt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "BIDV",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các chỉ_tiêu kinh_doanh của BIDV đều đạt và vượt kế_hoạch NHNN và Đại_hội_đồng cổ_đông giao",
+            "role": "Result",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tính đến hết 31/12/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "riêng ngân_hàng",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "30.006 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "BIDV",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các công_trình xanh",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "10.000 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_146": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ACB",
+            "role": "Seller",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hơn 19%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ACB",
+            "role": "Seller",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "huy_động",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "19,4%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Agribank",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hơn 8%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Agribank",
+            "role": "Seller",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Huy_động vốn",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "140.000 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "lỗ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Negative"
+        },
+        "arguments": [
+          {
+            "text": "NCB",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "đạt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "NCB",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trên 1.300 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "ước đạt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Sacombank",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trên 12.700 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "dự_kiến đạt tới",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HDBank",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trên 16.000 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r1",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HDBank",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "25%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e9",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "đạt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HDBank",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "12.655 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r2",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "HDBank",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "47%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e10",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "TPBank",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "34%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e11",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "TPBank",
+            "role": "Seller",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Dư_nợ tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "17%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e12",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VietinBank",
+            "role": "Seller",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "14,2%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e13",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VietinBank",
+            "role": "Seller",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "nguồn vốn huy_động",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "11,3%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_39": {
+    "event_mentions": [
+      {
+        "id": "e2",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tích_hợp",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Techcombank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "hợp_tác",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Techcombank",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Gaia",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "triển_khai chuỗi hành_động trồng và quản_lý 31.850 cây mới",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "thẻ_tín_dụng Techcombank_Visa_Eco",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngân_hàng",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "dành",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Techcombank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hơn 205 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_226": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "giao",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các tổ_chức tín_dụng",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tổ_chức tín_dụng",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "toàn nền kinh_tế",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "giữa tháng 12-2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "NH Tiên_Phong ( TPBank )",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "đầu tháng 12-2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "giao",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "từng NH thương_mại",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngay cuối năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_61": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Employment",
+        "event_subtype": "Start",
+        "trigger": {
+          "text": "nhiệm_kỳ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ông Phát",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ACB",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "lãnh_đạo điều_hành",
+            "role": "Title",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "FinancialReport",
+        "event_subtype": "Beat",
+        "trigger": {
+          "text": "ghi_nhận",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ACB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hiệu_quả kinh_doanh tích_cực",
+            "role": "Result",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "FinancialReport",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "duy_trì",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ACB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tỷ_lệ ROE ( lợi_nhuận trên vốn chủ_sở_hữu ) duy_trì trên 20%",
+            "role": "Result",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "FinancialReport",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "đạt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ACB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tỷ_lệ nợ xấu ( chưa tính CIC ) của ACB đạt 1,39%",
+            "role": "Result",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_62": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ký_kết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Tập_đoàn FPT",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "triển_khai giải_pháp Oracle Exadata_Cloud at Customer",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giải_pháp Oracle Exadata_Cloud at Customer",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "OCB",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Tập_đoàn FPT",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "bắt_tay",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "dịch_vụ cơ_sở_dữ_liệu đám mây phiên_bản 23ai",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "FPT",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "OCB",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Việt_Nam",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "hợp_tác",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "FPT",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hàng_loạt dự_án công_nghệ trọng_điểm",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Trước đó",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Phần_mềm Quản_lý nhân_sự",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "OCB",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "FPT",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Trước đó",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_272": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Facility",
+        "event_subtype": "Close",
+        "trigger": {
+          "text": "tạm ngừng giao_dịch",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VPBank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Chi_nhánh và quầy giao_dịch",
+            "role": "Facility",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ 17:00 ngày 31/12/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày 01/01/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Facility",
+        "event_subtype": "Open",
+        "trigger": {
+          "text": "hoạt_động bình_thường trở_lại",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VPBank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Chi_nhánh và quầy giao_dịch",
+            "role": "Facility",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày 02/01/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Facility",
+        "event_subtype": "Close",
+        "trigger": {
+          "text": "nghỉ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VIB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các giao_dịch",
+            "role": "Facility",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày 1/1/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Facility",
+        "event_subtype": "Open",
+        "trigger": {
+          "text": "hoạt_động bình_thường",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VIB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các giao_dịch",
+            "role": "Facility",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngày tiếp_theo",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_358": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "điều_chỉnh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "82,3-84,1 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "500.000 mỗi lượng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "lúc 8h45' sáng nay",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "điều_chỉnh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng miếng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,4-84,4 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "giữ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "vàng miếng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "82,9-84,4 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "82,9-84,4 triệu đồng / lượng",
+            "role": "HistoricalPrice",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "kể từ ngày 21/12 đến nay",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "niêm_yết",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,2-84,2 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,2-84,2 triệu đồng / lượng",
+            "role": "HistoricalPrice",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "TP. HCM",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "r1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "giữ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,5-84,3 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,5-84,3 triệu đồng / lượng",
+            "role": "HistoricalPrice",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng thế_giới",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2%",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Trong tuần qua",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_132": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Employment",
+        "event_subtype": "Compensation",
+        "trigger": {
+          "text": "thù_lao",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Chủ_tịch Hội_đồng_quản_trị ACB Trần_Hùng_Huy",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ACB",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "4,2 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong 6 tháng",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": [
+          "e2"
+        ]
+      },
+      {
+        "id": "e2",
+        "event_type": "Employment",
+        "event_subtype": "Compensation",
+        "trigger": {
+          "text": "thù_lao",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Chủ_tịch Hội_đồng_quản_trị ACB Trần_Hùng_Huy",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ACB",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "4,2 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong 6 tháng",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": [
+          "e1"
+        ]
+      },
+      {
+        "id": "e3",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ACB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "gần 5 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "nửa đầu năm 2023",
+            "role": "HistoricalAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Employment",
+        "event_subtype": "Compensation",
+        "trigger": {
+          "text": "được nhận",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ông Nguyễn_Thành_Long",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ACB",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1,8 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "6 tháng đầu năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Employment",
+        "event_subtype": "Compensation",
+        "trigger": {
+          "text": "được nhận",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ông Võ_Văn_Hiệp",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ACB",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1,1 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "6 tháng đầu năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "Employment",
+        "event_subtype": "Compensation",
+        "trigger": {
+          "text": "được nhận",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "bà Đặng_Thu_Thuỷ",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ACB",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1,1 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "6 tháng đầu năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "Expense",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "chi",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ACB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "gần 43 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "Employment",
+        "event_subtype": "Compensation",
+        "trigger": {
+          "text": "được nhận",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "3 thành_viên trong Ban Kiểm_soát của ACB",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ACB",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "6,6 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "nửa đầu năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_402": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "16 ngân_hàng thương_mại ( NHTM )",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tháng 11 vừa_qua",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "mức tăng từ 0,1%-0,7% / năm",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Negative"
+        },
+        "arguments": [
+          {
+            "text": "các tổ_chức tín_dụng ( TCTD )",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các NHTM",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "những tháng cuối năm",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Expense",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "nhích lên",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các NHTM niêm_yết",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thời_gian qua",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "suy_giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các NHTM niêm_yết",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "quý 3-2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "12,5%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "11 tháng",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tại TPHCM",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hai con_số",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "cả năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_148": {
+    "event_mentions": [
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_giá",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "đồng USD",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "gia_tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỉ_giá VNĐ / USD",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Giá_USD",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_472": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "kinh_tế thế_giới",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "hạ",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các Ngân_hàng Trung_ương",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "cải_thiện",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng toàn hệ_thống",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng_tốc",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "kinh_tế - xã_hội",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "bứt_phá",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "kinh_tế - xã_hội",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_92": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trên 1,44 triệu tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Profit/Loss",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng_trưởng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ngân_hàng",
+            "role": "Profiteer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tối thiểu 5%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SalesVolume",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Tín_dụng",
+            "role": "GoodsService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "16,28%",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "Investment",
+        "event_subtype": null,
+        "trigger": {
+          "text": "đầu_tư",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "cổ_đông nhà_nước",
+            "role": "Investor",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Vietcombank",
+            "role": "Investee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "số tiền hơn 20.695 tỷ đồng",
+            "role": "CapitalInvested",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Cuối năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "phát_hành",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Vietcombank",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Nhà_nước và cổ_đông khác",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "27.666 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e10",
+        "event_type": "Dividend",
+        "event_subtype": "Payment",
+        "trigger": {
+          "text": "phát_hành",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Vietcombank",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "gần 857 triệu cổ_phiếu",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tháng 8/2023",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_72": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Giá vàng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "lợi_suất trái_phiếu Mỹ",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tiếp_tục mạnh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "đồng USD",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "lên",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "lợi_suất trái_phiếu Mỹ kỳ_hạn 10 năm",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "4,76%",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tạo ra",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "kinh_tế Mỹ",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e12",
+        "event_type": "Investment",
+        "event_subtype": null,
+        "trigger": {
+          "text": "đầu_tư",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "người tiêu_dùng Trung_Quốc",
+            "role": "Investor",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "vàng",
+            "role": "Investee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e13",
+        "event_type": "Investment",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng_cường",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Các NHTW tại các thị_trường mới nổi",
+            "role": "Investor",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "vàng",
+            "role": "Investee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e14",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "vượt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "3.000 USD / ounce",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_254": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "bơm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng Nhà_nước ( NHNN )",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hệ_thống ngân_hàng",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "lượng lớn thanh khoản VNĐ",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong tuần qua ( 23/12 - 27/12 )",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ]
+      },
+      {
+        "id": "e4",
+        "event_type": "Financing",
+        "event_subtype": null,
+        "trigger": {
+          "text": "bơm ròng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "NHNN",
+            "role": "Financer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thị_trường",
+            "role": "Financee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "86.563 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong tuần qua",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá USD liên ngân_hàng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "đầu tuần",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá USD liên ngân_hàng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá liên ngân_hàng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Trước đó",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e10",
+        "event_type": "SecurityValue",
+        "event_subtype": "Stable",
+        "trigger": {
+          "text": "đi ngang",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e11",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "hạ nhiệt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "USD Index",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_494": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "nhận",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "vinh_danh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Facility",
+        "event_subtype": "Open",
+        "trigger": {
+          "text": "mở mới",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "CN / PGD",
+            "role": "Facility",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trên toàn_quốc",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tại 48 tỉnh_thành kinh_tế trọng_điểm",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chuyển_đổi số",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Open_API",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chuyển_đổi",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "OCB",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_493": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng miếng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "200.000 đồng mỗi lượng",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Tối 12-12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng miếng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hơn 1 triệu đồng mỗi lượng",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "dậy sóng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn và vàng trang_sức các loại",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn 99,99",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "chạm mốc",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá thế_giới",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2.724 USD / ounce",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "hạ nhiệt trở_lại",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá thế_giới",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng thế_giới",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "khoảng 5 USD / ounce",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2.709 USD / ounce",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "18 giờ",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "phục_hồi",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Kim_loại_quý trên sàn quốc_tế",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e9",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "công_bố",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_88": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá USD / VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "5%",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá USD / VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "5%",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "nửa đầu năm",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá USD / VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "3%",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "quý III",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá USD / VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "3%",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "quý IV",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e9",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tỷ_giá USD / VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "3-4%",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thời_điểm cuối năm",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e10",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "cải_thiện",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "cung_cầu ngoại_tệ",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e11",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "chênh_lệch lãi_suất VNĐ-USD",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_215": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng mạnh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,5-85 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1,3 triệu đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "800.000 đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thời_điểm 10h30' hôm_nay",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "điều_chỉnh",
+          "is_discontiguous": true,
+          "extra_trigger_spans": [
+            "lên"
+          ]
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,3 - 84,8 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1,1 triệu đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "600.000 đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "84,4 - 85 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "700.000 - 800.000 đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "điều_chỉnh thêm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hơn 1 triệu đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "600.000 đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "nâng_giá",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,9-85 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1,3 triệu đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "800.000 đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e7",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "điều_chỉnh",
+          "is_discontiguous": true,
+          "extra_trigger_spans": [
+            "lên"
+          ]
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "83,9-85 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "500.000 - 800.000 đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "nâng_giá",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "84-84,2 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "400.000 đồng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e9",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "thêm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng nhẫn",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "84,2-84,9 triệu đồng / lượng",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "700.000 mỗi lượng",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e10",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "giá vàng thế_giới",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2.633 USD / ounce",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "8,4 USD",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "thị_trường quốc_tế",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sáng nay 2/1",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_65": {
+    "event_mentions": [
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "gia_tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "đồng USD",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": [
+          "e11"
+        ]
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng vọt",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "DXY",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "DXY",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ba tháng vừa_qua",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "phục_hồi",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "đồng VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ giữa tháng 9/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e9",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "mất_giá",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "đồng VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hơn 4,6%",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ đầu năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e11",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "gia_tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Other",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "đồng USD",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": [
+          "e2"
+        ]
+      },
+      {
+        "id": "e12",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "phục_hồi",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "du_lịch",
+            "role": "Sector",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trong năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_363": {
+    "event_mentions": []
+  },
+  "taichinhnganhang_159": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "thực_hiện",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các ngân_hàng",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sinh trắc học",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "1/7/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "thực_hiện",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Negative"
+        },
+        "arguments": [
+          {
+            "text": "UOB , HSBC",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sinh trắc học",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "thực_hiện",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "100% ngân_hàng trong nước",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "sinh trắc học",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_237": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "chỉ_số USD Index ( DXY )",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "mất_giá",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "VND",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e3",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tháng 11",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "lập đỉnh",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "kim_loại_quý",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tiến sát",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "kim_loại_quý",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2.800 USD / ounce",
+            "role": "Price",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "cuối tháng 10",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e8",
+        "event_type": "Merger/Acquisition",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chuyển_giao",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng Thương_mại TNHH MTV Xây_dựng Việt_Nam ( CB )",
+            "role": "Target",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngân_hàng TMCP Ngoại_thương Việt_Nam ( Vietcombank )",
+            "role": "Acquirer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngày 17/10/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e9",
+        "event_type": "Merger/Acquisition",
+        "event_subtype": null,
+        "trigger": {
+          "text": "chuyển_giao",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng Thương_mại TNHH MTV Đại_Dương ( Oceanbank )",
+            "role": "Target",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngân_hàng TMCP Quân_đội ( MB )",
+            "role": "Acquirer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngày 17/10/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_344": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Revenue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "thu",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "nhà_nước",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "hơn 1,7 triệu tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "Revenue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "thu",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "nhà_nước",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "116.000 tỷ đồng",
+            "role": "Amount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "20%",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_187": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Employment",
+        "event_subtype": "Start",
+        "trigger": {
+          "text": "bổ nhiệm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "Ngân_hàng TMCP Kiên_Long ( KienlongBank )",
+            "role": "Employer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "bà Nguyễn_Thị_Hồng_Vân",
+            "role": "Employee",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Phó Tổng_Giám_đốc",
+            "role": "Title",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ ngày 3/1/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ]
+      }
+    ]
+  },
+  "taichinhnganhang_483": {
+    "event_mentions": []
+  },
+  "taichinhnganhang_389": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Deal",
+        "event_subtype": null,
+        "trigger": {
+          "text": "hợp_tác",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "FE CREDIT",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "các đại_lý phân_phối xe_máy trên toàn_quốc",
+            "role": "Partner",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "chương_trình \" Mega live – Rinh xế mới , Xuân phơi_phới \"",
+            "role": "Goal",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e4",
+        "event_type": "CSR/Brand",
+        "event_subtype": null,
+        "trigger": {
+          "text": "tổ_chức",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "FE CREDIT",
+            "role": "Company",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "từ nay đến hết tháng 01/2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "trên các nền_tảng mạng xã_hội của đơn_vị như Facebook , TikTok",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_388": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Macroeconomics",
+        "event_subtype": null,
+        "trigger": {
+          "text": "ban_hành",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "các ngân_hàng thương_mại ( NHTM )",
+            "role": "AffectedCompany",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngày 18/12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "năm 2025",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_166": {
+    "event_mentions": []
+  },
+  "taichinhnganhang_480": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng miếng SJC",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "100.000 đồng",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Tối 13-12",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e5",
+        "event_type": "SecurityValue",
+        "event_subtype": "Decrease",
+        "trigger": {
+          "text": "giảm",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "15 USD / ounce",
+            "role": "DecreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "phiên chiều",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e6",
+        "event_type": "SecurityValue",
+        "event_subtype": "Increase",
+        "trigger": {
+          "text": "tăng",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "vàng",
+            "role": "Security",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "100 USD / ounce",
+            "role": "IncreaseAmount",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "vài phiên gần đây",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  },
+  "taichinhnganhang_257": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "tích_hợp",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "tính_năng cập_nhật giấy_tờ tuỳ_thân và sinh trắc học",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "OCB OMNI",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Liobank",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "tháng 5/2024",
+            "role": "TIME",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      },
+      {
+        "id": "e2",
+        "event_type": "Product/Service",
+        "event_subtype": "Launch",
+        "trigger": {
+          "text": "triển_khai",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Positive"
+        },
+        "arguments": [
+          {
+            "text": "ứng_dụng OCB Assist",
+            "role": "ProductService",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "ngân_hàng",
+            "role": "Producer",
+            "argument_type": "Participant",
+            "canonical_coreference": "OCB"
+          },
+          {
+            "text": "CN / PGD",
+            "role": "PLACE",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  }
+}
