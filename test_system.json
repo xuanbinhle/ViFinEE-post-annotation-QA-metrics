@@ -1,0 +1,53 @@
+{
+  "doc1": {
+    "event_mentions": [
+      {
+        "id": "e1",
+        "event_type": "Legal",
+        "event_subtype": "Conviction/Settlement",
+        "trigger": {
+          "text": "tuyên",
+          "is_discontiguous": false,
+          "extra_trigger_spans": []
+        },
+        "factuality": {
+          "modality": "Certain",
+          "polarity": "Negative"
+        },
+        "arguments": [
+          {
+            "text": "toà",
+            "role": "Adjudicator",
+            "argument_type": "Participant",
+            "canonical_coreference": "Toà_án nhân_dân TP Cam_Ranh"
+          },
+          {
+            "text": "Sacombank",
+            "role": "Defendant",
+            "argument_type": "Participant",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "bà Dương",
+            "role": "Plaintiff",
+            "argument_type": "Participant",
+            "canonical_coreference": "bà Hồ_Thị_Thuỳ_Dương"
+          },
+          {
+            "text": "Sacombank phải trả cho bà Dương số tiền gốc còn lại là 26,9 tỷ đồng sau khi đã trừ 20 tỷ đồng tạm_ứng trước đó .",
+            "role": "Sentence",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          },
+          {
+            "text": "Ngân_hàng này còn phải trả hơn 7 tỷ đồng_tiền lãi chậm trả cho bà Dương và trả lại 2 giấy chứng_nhận quyền sử_dụng đất cho bà .",
+            "role": "Sentence",
+            "argument_type": "FILLER",
+            "canonical_coreference": ""
+          }
+        ],
+        "coreferent_event_triggers": []
+      }
+    ]
+  }
+}

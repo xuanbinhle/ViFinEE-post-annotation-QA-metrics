@@ -1,0 +1,9 @@
+Bước 1: Lấy 10% Mẫu Cần QC
+python prepare_QC_samples.py \
+  --batch tokenized_data_1000 \
+  --config config/pipeline.yaml
+
+Bước 2: QC Thủ Công & Cập Nhật Gold Set
+python update_gold_from_human.py \
+  --qc_file data/processed/human/tokenized_data_1000_sample.json \
+  --gold_file data/gold/master.json
